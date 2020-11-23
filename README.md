@@ -3,3 +3,5 @@ A program requested by Colvine Software that will read from a friendly API and l
 
 # Technical Proposal
 Here: https://docs.google.com/document/d/120RZ9BuyV-mEHdady-FkB1hwWa5oVDgmvhew_FosOQ0/edit?usp=sharing
+
+Sandy was here
